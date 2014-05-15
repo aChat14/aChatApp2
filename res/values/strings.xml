@@ -4,5 +4,10 @@
     <string name="app_name">Chat</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="send">Send</string>
+    <string name="ichat">iChat</string>
+<string name="title_activity_display_message">My Message</string>
+<string name="test">Test</string>
+<string name="login_">"Login: "</string>
+<string name="register">Register</string>
 </resources>
